@@ -1,4 +1,4 @@
-module github.com/nicksanford/imageclock
+module github.com/katiepeters/imageclock
 
 go 1.21.13
 
